@@ -1,0 +1,43 @@
+pokemon = {
+    'Misdreavus' : {
+        "Status": [],
+        "Habilidades" : [],
+        "Tipo" : [],
+        
+    },
+
+    'Bellessom' : {
+        "Status": [],
+        "Habilidades" : [],
+        "Tipo" : [],
+        
+    },
+
+    'Ditto' : {
+        "Status": [],
+        "Habilidades" : [],
+        "Tipo" : [],
+        
+    },
+
+    'Gorebyss' : {
+        "Status": [],
+        "Habilidades" : [],
+        "Tipo" : [],
+        
+    },
+
+    'Kabuto' : {
+        "Status": [],
+        "Habilidades" : [],
+        "Tipo" : [],
+        
+    },
+
+    'Porygon' : {
+        "Status": [],
+        "Habilidades" : [],
+        "Tipo" : [],
+        
+    },
+}
